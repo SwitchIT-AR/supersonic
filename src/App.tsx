@@ -16,8 +16,10 @@ function App() {
                 <i className="ti ti-mail"></i>{' '}
                 <a style={{textDecoration: "white"}} href="mailto:info@supersonic.com.ar">info@supersonic.com.ar</a> <br />
                 <i className="ti ti-brand-whatsapp"></i>
-                 <a style={{textDecoration: "white"}} href="mailto:info@supersonic.com.ar"> +54 9 11 5859 8061
-                 </a>
+                <a style={{ textDecoration: "white" }} href="https://wa.me/5491158598061" target="_blank" rel="noopener noreferrer">
+                    +54 9 11 5859 8061
+                </a>
+
 
             </p>
         </>
